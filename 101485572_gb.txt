@@ -1,0 +1,12 @@
+-------Information about George Brown College-------
+
+George Brown College is located in Toronto, and has 3 Campuses: Casa Loma Campus,
+St. James Campus and Waterfront Campus. Each one of them is focused in different
+fields:
+
+- Casa Loma Campus: Specializes in engineering technologies, construction, and design.
+
+- St. James Campus: Houses programs related to business, hospitality, culinary arts,
+and community services.
+
+- Waterfront Campus: Is dedicated mainly to health sciences, nursing, and design.
