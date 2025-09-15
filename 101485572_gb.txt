@@ -25,3 +25,12 @@ of study are:
 - Community & Early Childhood Services.
 - Construction & Engineering Technologies.
 - Hospitality & Culinary Arts.
+
+About T177 program:
+
+    The T177 is the program that I am currently enrolled, its full name is Computer
+Programming and Analysis (T177), and it’s an advanced diploma program that runs for
+three years, which I am currently attending the 5th semester. It gives a lot of
+hands-on experience during lab classes, assignments and team projects. At the end
+of this course, I am going to be ready to take on roles like software developer,
+web programmer, systems analyst, or database developer.
