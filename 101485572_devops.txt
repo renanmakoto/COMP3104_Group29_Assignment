@@ -1,0 +1,12 @@
+-------Information about DevOps-------
+
+    In software development, Devops is one of the best ways to work, it mixes
+the people who write the code (developers) and the people who take care of
+running the systems (operations). In the past, these two groups often worked
+in different parts and times. Developers would finish their code and send to
+the operations team, who had to make sure it worked in real life, but it
+created delays and miscommunication. DevOps came to solve this problem,
+making these two kinds of professional collaborate together with the goal to
+deliver software faster, with fewer bugs, and in a more reliable way by
+pushing updates in small steps, sometimes even several times a day.
+
