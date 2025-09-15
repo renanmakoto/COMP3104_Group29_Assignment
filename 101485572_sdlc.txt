@@ -7,3 +7,11 @@ are integrated, tested, and deployed in small steps (CI/CD), teams can spot
 problems early, fix them quickly, and avoid major failures, meaning that users
 get new features and improvements faster. Besides that, the Automated testing
 and deployment reduce human error, making releases more predictable.
+
+    Another important aspect of DevOps in SDLC is the improvement of collaboration
+and communication, where teams to work together from the start and everyone shares
+responsibility for the software, from coding to deployment to monitoring, leading
+to fewer conflicts, quicker problem-solving, and a stronger sense of team ownership.
+The focus on teamwork in DevOps also extends to testing, security, and quality
+assurance teams, creating a smoother development lifecycle where everyone is aligned
+toward the same goals.
