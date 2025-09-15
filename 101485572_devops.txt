@@ -10,3 +10,16 @@ making these two kinds of professional collaborate together with the goal to
 deliver software faster, with fewer bugs, and in a more reliable way by
 pushing updates in small steps, sometimes even several times a day.
 
+    Some main practices in DevOps helps teams work better and release software more
+efficiently. One of the most important is Continuous Integration and Continuous
+Delivery (CI/CD), where developers integrate their code changes into a shared
+repository very often and each change is automatically tested, so problems can
+be spotted and fixed right away, and Continuous Delivery makes sure those changes
+can be deployed into production quickly and safely.
+
+    Another practice is automation, where Instead of doing tasks manually, teams
+set up servers, run tests, create builds, and even deploying applications.
+Automation reduces human error and makes the whole process faster. Besides that,
+monitoring and feedback are also crucial, after a system is deployed, DevOps teams
+keep track of how it’s performing using monitoring tools to check if everything
+is running smoothly, and if something goes wrong, alerts are triggered right away.
