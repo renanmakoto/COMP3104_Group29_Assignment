@@ -1,0 +1,9 @@
+-------Information about DevOps in the software development lifecycle-------
+
+    DevOps is important in the SDLC because it helps teams release software
+faster and more reliably while traditional development, that have long delays
+on coding and releasing it to users. When DevOps is implemented and changes
+are integrated, tested, and deployed in small steps (CI/CD), teams can spot
+problems early, fix them quickly, and avoid major failures, meaning that users
+get new features and improvements faster. Besides that, the Automated testing
+and deployment reduce human error, making releases more predictable.
