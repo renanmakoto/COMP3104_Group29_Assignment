@@ -1,0 +1,34 @@
+-------Information about  THE COMP3104 DevOps-------
+
+    COMP3104 has the main focus of introducing students to DevOps concepts, tools,
+and practices that are widely used in the software industry today. Students can
+understand how development and operations work together. this course offers the
+theoretical and practical sides of DevOps, some mai topics talk about Continuous
+Integration and Continuous Delivery (CI/CD), automation of testing and deployment,
+version control with Git and containerization with Docker. With 2  big hands-on
+team projects, students can get to work on real-world scenarios where they apply
+DevOps principles.
+
+    In software development, Devops is one of the best ways to work, it mixes
+the people who write the code (developers) and the people who take care of
+running the systems (operations). In the past, these two groups often worked
+in different parts and times. Developers would finish their code and send to
+the operations team, who had to make sure it worked in real life, but it
+created delays and miscommunication. DevOps came to solve this problem,
+making these two kinds of professional collaborate together with the goal to
+deliver software faster, with fewer bugs, and in a more reliable way by
+pushing updates in small steps, sometimes even several times a day.
+
+    Some main practices in DevOps helps teams work better and release software more
+efficiently. One of the most important is Continuous Integration and Continuous
+Delivery (CI/CD), where developers integrate their code changes into a shared
+repository very often and each change is automatically tested, so problems can
+be spotted and fixed right away, and Continuous Delivery makes sure those changes
+can be deployed into production quickly and safely.
+
+    Another practice is automation, where Instead of doing tasks manually, teams
+set up servers, run tests, create builds, and even deploying applications.
+Automation reduces human error and makes the whole process faster. Besides that,
+monitoring and feedback are also crucial, after a system is deployed, DevOps teams
+keep track of how it’s performing using monitoring tools to check if everything
+is running smoothly, and if something goes wrong, alerts are triggered right away.
