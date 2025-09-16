@@ -12,5 +12,5 @@ This repository hosts the group assignment for the COMP3104 DevOps course, focus
 ## Setup Instructions:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/COMP3104_Group29_Assignment.git
+   git clone https://github.com/renanmakoto/COMP3104_Group29_Assignment.git
 
