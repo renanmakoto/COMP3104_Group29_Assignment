@@ -5,3 +5,6 @@
 - 10+ meaningful local commits (no web edits)
 - CI pipeline visible in Actions
 - Merge via PR with conflict resolution
+- Confident with Git branching & PRs
+- Understand CI triggers and status checks
+- Document and resolve merge conflicts

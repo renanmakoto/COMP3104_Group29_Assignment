@@ -4,3 +4,6 @@ DevOps shortens feedback loops across Plan → Build → Test → Release → Op
 - Small, frequent merges via PR
 - Fast rollback and recovery
 - Shared ownership and visibility
+- CI: Continuous Integration (automated build/test on push)
+- CD: Continuous Delivery/Deployment (automated release pipeline)
+- PR: Pull Request (review & merge gate)
