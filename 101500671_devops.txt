@@ -1,0 +1,3 @@
+- Git/GitHub collaboration and branching
+- CI/CD fundamentals
+- Team workflows and PR reviews
