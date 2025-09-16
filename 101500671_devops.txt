@@ -1,3 +1,7 @@
 - Git/GitHub collaboration and branching
 - CI/CD fundamentals
 - Team workflows and PR reviews
+- Per-developer branches (STUDENTID-Name)
+- 10+ meaningful local commits (no web edits)
+- CI pipeline visible in Actions
+- Merge via PR with conflict resolution
