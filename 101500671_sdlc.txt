@@ -1,0 +1,1 @@
+DevOps shortens feedback loops across Plan → Build → Test → Release → Operate → Monitor, improving quality and delivery speed.
