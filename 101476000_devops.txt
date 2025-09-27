@@ -1,0 +1,4 @@
+COMP 2156 – DevOps
+- Topics: CI/CD, version control, branching, pipelines, IaC basics.
+- Tools: Git/GitHub, GitHub Actions, Travis CI, containers (intro).
+- Outcomes: automate builds, enforce quality gates, collaborate via PRs.
