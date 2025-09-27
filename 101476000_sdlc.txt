@@ -1,4 +1,2 @@
-DevOps in SDLC
-- Bridges dev & ops: faster feedback, continuous integration & delivery.
-- Benefits: quality, reliability, shorter lead time, better collaboration.
-- Practices: pipelines, tests, code reviews, monitoring, automation.
+## DevOps in the SDLC
+- Faster feedback through continuous integration
