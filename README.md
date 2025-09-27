@@ -6,7 +6,7 @@ This repository is for the COMP3104 DevOps assignment, focusing on Git workflows
 - **Leader:** Renan Makoto (101536279) - [GitHub](https://github.com/renanmakoto)
 - **Member:** Lucas (101500671) - [GitHub](https://github.com/Stuaarts)
 - **Member:** Breno Mafra (101485572) - [GitHub](https://github.com/BrenoMafra13)
-- - **Member:** Carlos Figuera (101476000) - [GitHub](https://github.com/101476000)
+- **Member:** Carlos Figuera (101476000) - [GitHub](https://github.com/101476000)
 
 ## Project Description
 This repository hosts the group assignment for the COMP3104 DevOps course, focusing on Git workflows, branching strategies, and CI/CD integration using GitHub Actions. The assignment aims to familiarize students with DevOps principles, version control with Git, and automated CI pipelines.
