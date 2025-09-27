@@ -1,3 +1,4 @@
 ## DevOps in the SDLC
 - Faster feedback through continuous integration
 - Improves reliability via automated tests & reviews
+- Common practices: code reviews, pipelines, monitoring
