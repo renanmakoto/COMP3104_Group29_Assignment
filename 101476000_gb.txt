@@ -1,4 +1,3 @@
-George Brown College (Toronto, ON)
-- Programs: Technology, Business, Design.
-- Focus: hands-on learning, industry projects, co-op opportunities.
-- Why it matters to me: practical skills aligned with local job market.
+## George Brown College
+- Located in Toronto, ON
+- Hands-on learning focus
