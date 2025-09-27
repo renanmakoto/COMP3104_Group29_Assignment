@@ -3,3 +3,4 @@
 - Improves reliability via automated tests & reviews
 - Common practices: code reviews, pipelines, monitoring
 - Summary: DevOps shortens lead time from code to production
+- Common practices: code reviews, pipelines, monitoring
