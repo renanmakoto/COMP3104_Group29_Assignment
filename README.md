@@ -1,3 +1,6 @@
+[![CI](https://github.com/renanmakoto/COMP3104_Group29_Assignment/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/renanmakoto/COMP3104_Group29_Assignment/actions/workflows/ci.yml)
+
+
 # COMP3104_Group29_Assignment
 
 This repository is for the COMP3104 DevOps assignment, focusing on Git workflows, branching strategies, and CI/CD integration using GitHub Actions.
