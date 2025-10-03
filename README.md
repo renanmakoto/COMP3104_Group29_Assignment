@@ -15,3 +15,5 @@ This repository hosts the group assignment for the COMP3104 DevOps course, focus
 1. Clone the repository:
    ```bash
    git clone https://github.com/renanmakoto/COMP3104_Group29_Assignment.git
+
+- **Member:** Gustavo Miranda (101488574) - https://github.com/GustavoMiranda2
