@@ -1,0 +1,3 @@
+DevOps connects developers and operations to improve software delivery.
+It helps with faster releases, better quality, and easier collaboration.
+Summary: DevOps improves delivery speed and product quality.
