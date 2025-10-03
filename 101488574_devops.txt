@@ -1,3 +1,4 @@
 COMP3104 DevOps covers Git, GitHub, branching, pull requests, and CI/CD.
 The course teaches how to use GitHub Actions or Travis CI for automation.
 Typical pipeline: checkout -> build -> test -> deploy.
+References: github.com/docs, actions.github.com, travis-ci.com.
