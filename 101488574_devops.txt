@@ -1,0 +1,1 @@
+COMP3104 DevOps covers Git, GitHub, branching, pull requests, and CI/CD.
