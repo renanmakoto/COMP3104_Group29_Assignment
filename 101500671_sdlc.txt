@@ -1,0 +1,9 @@
+DevOps shortens feedback loops across Plan → Build → Test → Release → Operate → Monitor, improving quality and delivery speed.
+
+- Automated checks on each push (CI)
+- Small, frequent merges via PR
+- Fast rollback and recovery
+- Shared ownership and visibility
+- CI: Continuous Integration (automated build/test on push)
+- CD: Continuous Delivery/Deployment (automated release pipeline)
+- PR: Pull Request (review & merge gate)

@@ -1,0 +1,6 @@
+### Course Overview
+### Course Overview
+## COMP 2156 – DevOps
+- Topics: CI/CD, branching, pipelines, automation
+- Tools: Git/GitHub, GitHub Actions, Travis CI
+- Outcome: automate builds and enforce quality gates
